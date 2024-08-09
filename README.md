@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">> Software Engineer<br>> Software Engineering Student at Faculdade SENAI Fatesg</p>
+<p align="left">> Software Engineering Student at Faculdade SENAI Fatesg</p>
 
 ###
 
