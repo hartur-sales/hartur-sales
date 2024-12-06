@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hartur Sales Xavier</h1>
 <h3 align="center">Software Engineering student | SENAI Fatesg Student</h3>
 
-- 🌱 I’m currently learning **Java, data structures, LeetCode, and looking to learn Spring**
+- 🌱 I’m currently learning **Java, data structures, and looking to learn Spring**
 
 - 📫 **hartursalesxavier@gmail.com**
 
@@ -13,9 +13,7 @@
    <a href="https://instagram.com/hartursls" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
    </a>
-   <a href="https://www.leetcode.com/hartur" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-   </a>
+  
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
