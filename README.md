@@ -1,10 +1,9 @@
-
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
   <b>Hi, I'm Hartur 👋</b><br><br>
   🎓 Software Engineering student at <b>SENAI Fatesg</b> (graduation 2027)<br>
-  🌱 I’m currently learning DSA and Spring Boot<br>
+  🌱 I'm currently learning DSA, Spring Boot, Docker and Kubernetes<br>
 </p>
 
 &nbsp;
@@ -21,6 +20,8 @@
 
 #### Studying now:
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 #### Databases:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
