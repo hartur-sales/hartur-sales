@@ -8,13 +8,6 @@
 </p>
 
 &nbsp;
-## 📊 GitHub Stats
-
-![Hartur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hartur-sales&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=hartur-sales&theme=gotham&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hartur-sales&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-&nbsp;
 
 ## 🚀 Tech Stack  
 
